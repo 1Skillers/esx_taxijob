@@ -13,19 +13,8 @@ ESX Taxi Job adds driving cabs as a service, and more including NPC missions.
 
 ## Download & Installation
 
-### Using [fvm](https://github.com/qlaffont/fvm-installer)
-```
-fvm install --save --folder=esx esx-org/esx_taxijob
-```
-
-### Using Git
-```
-cd resources
-git clone https://github.com/ESX-Org/esx_taxijob [esx]/esx_taxijob
-```
-
 ### Manually
-- Download https://github.com/ESX-Org/esx_taxijob/archive/master.zip
+- Download https://github.com/1Skillers/esx_taxijob/archive/esx_taxijob.zip
 - Put it in the `[esx]` directory
 
 ## Installation
